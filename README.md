@@ -12,11 +12,11 @@ house-prices-rodolphe-alexis created by GitHub Classroom
 ```
 
 ## 2eme partie : Lancement de la machine virtuelle :
-
+```
 2.1. Télécharger le fichier Virtual_Machine et Virtual_Machine_key :
 2.2. Lancer le .rdp et entrez le mot de passe du fichier key pour accèder à la machine virtuelle
 2.3  Copier - Coller le contenu téléchargé sur la machine virtuelle en effectuant simplement un copier coller de votre machine locale sur le bureau de la machine
-
+```
 ## 3eme partie : L'éxecution :
 
 ```
